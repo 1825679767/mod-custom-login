@@ -10,23 +10,23 @@
 #                         /\___/ /\____/                                                
 #                         \/__/  \_/__/          http://stygianthebest.github.io                                         
 ###################################################################################################
-#   CUSTOM LOGIN
+#   自定义登录
 ###################################################################################################
 
-# Enable the module? (default: 1)
+# 启用模块？（默认: 1）
 Login.Enable = 1
 
-# Announce the module when the player logs in? (default: 1)
+# 玩家登录时是否公告该模块？（默认: 1）
 Login.Announce = 1
 
-# Inform when players enter and exit the game (default: 1)
+# 玩家进入和退出游戏时是否通知？（默认: 1）
 Login.PlayerAnnounce = 1
 
-# New characters start with BoA items? (default: 1)
+# 新角色是否开始拥有 BoA 物品？（默认: 1）
 Login.BoA = 1
 
-# Which items should we give the player? (default: 1)
-# I prefer the ring and a trinket for new players.
+# 我们应该给予玩家哪些物品？（默认: 1）
+# 我倾向于为新玩家提供戒指和一个饰品。
 Login.BoA.Ring = 1
 Login.BoA.Bags = 1
 Login.BoA.Shoulders = 0
@@ -39,14 +39,11 @@ Login.BoA.Weapon = 0
 Login.BoA.Weapon2 = 0
 Login.BoA.Weapon3 = 0
 
-# New characters start with additional weapon skills? (default: 1)
+# 新角色是否开始拥有额外的武器技能？（默认: 1）
 Login.Skills = 1
 
-# New characters start with special abilities? (default: 0)
+# 新角色是否开始拥有特殊技能？（默认: 0）
 Login.SpecialAbility = 0
 
-# New characters start with Exalted reputation for main city factions? (default: 1)
+# 新角色是否开始拥有主城阵营的尊敬声望？（默认: 1）
 Login.Reputation = 1
-
-
-
