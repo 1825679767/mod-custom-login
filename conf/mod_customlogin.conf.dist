@@ -17,13 +17,13 @@
 Login.Enable = 1
 
 # 玩家登录时是否公告该模块？（默认: 1）
-Login.Announce = 1
+Login.Announce = 0
 
 # 玩家进入和退出游戏时是否通知？（默认: 1）
 Login.PlayerAnnounce = 1
 
 # 新角色是否开始拥有 BoA 物品？（默认: 1）
-Login.BoA = 1
+Login.BoA = 0
 
 # 我们应该给予玩家哪些物品？（默认: 1）
 # 我倾向于为新玩家提供戒指和一个饰品。
@@ -40,10 +40,10 @@ Login.BoA.Weapon2 = 0
 Login.BoA.Weapon3 = 0
 
 # 新角色是否开始拥有额外的武器技能？（默认: 1）
-Login.Skills = 1
+Login.Skills = 0
 
 # 新角色是否开始拥有特殊技能？（默认: 0）
 Login.SpecialAbility = 0
 
 # 新角色是否开始拥有主城阵营的尊敬声望？（默认: 1）
-Login.Reputation = 1
+Login.Reputation = 0
